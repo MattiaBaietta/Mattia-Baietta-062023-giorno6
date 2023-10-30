@@ -78,5 +78,5 @@ console.log(name1.toLowerCase() == name2.toLowerCase());
 
 
 /*extra conversione farheit celsius*/
-let gradi = window.prompt("Quanti gradi ci sono?");
-window.alert("SONO "+(( gradi - 32) * 5/9)+ " GRADI FAHRENHEIT");
+let gradi = window.prompt("Quanti gradi Fahrenheit ci sono?");
+window.alert("CI SONO "+(( gradi - 32) * 5/9)+ " GRADI CELSIUS");
